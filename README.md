@@ -1,7 +1,7 @@
 
 
 ## Installation procedure
-1) git clone https://github.com/zhacked/offshort_todo.git
+1) git clone https://github.com/zhacked/todo_exam.git
 2) cp .env.example .env
 3) set up .env and database
 4) php artisan migrate
